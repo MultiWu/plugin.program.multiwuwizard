@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR red][B]MultiWu [/B][/COLOR]Wizard'
 BUILDERNAME = 'MultiWu Wizard'
 EXCLUDES = [ADDON_ID, 'repository.multiwu']
 # Text File with build info in it.
-BUILDFILE = 'http://polskanora.tk/build.zip'
+BUILDFILE = 'http://polskanora.tk/kodi/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -111,7 +111,7 @@ REPOZIPURL = 'https://raw.githubusercontent.com/drinfernoo/repository.openwizard
 # Enable Notification screen Yes or No
 ENABLE = 'Yes'
 # Url to notification file
-NOTIFICATION = 'http://'
+NOTIFICATION = 'http://polskanora.tk/kodi/notify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE = 'Text'
 # Font size of header
