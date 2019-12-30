@@ -2,7 +2,7 @@
 <settings>
 	<category label="[COLORgold]MWU[/color]Build">
 		<setting id="adult" type="bool" label="NIE TYKEJ TEGO!!!" enable="true" default="true"/>
-		<setting id="iptvkey" type="text" label="[B] [COLORgold]MWU[/COLOR]Build [COLORsnow]Adres dostępu do IPTV: [/B][/COLOR]" visible="eq(-1,false)"/>
+		<setting id="iptvkey" type="text" label="[B] [COLORgold]MWU[/COLOR]Build [COLORsnow]Adres dostępu do IPTV: [/B][/COLOR]"/>
 	</category>
     <category label="Build Options">
         <setting type="lsep" label="Current Build:"/>
